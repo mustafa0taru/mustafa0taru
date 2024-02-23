@@ -5,12 +5,12 @@ Hi there!
 I'm a Data Analytics Engineer with a strong grasp of data pipelines and a knack for building scalable solutions and providing actionable insights. 
 
 I'm proficient in tools like 
-- Programming: Python,SQL.
-- Tools: dbt, Airflow, Spark, Kafka
-- Warehousing: Bigquery, Snowflake and Redshift.
+- Programming: Python, SQL.
+- Tools: dbt, Airflow, Airbyte, Spark, Kafka.
+- Warehousing: Bigquery, Snowflake, Redshift.
 - BI/Visualization: Power BI, Metabase, Tableau, Looker.
 - Cloud: GCP, AWS.
-- IAAS: Terraform, Docker
+- IAAS: Terraform, Docker.
 
 
 ## What I'm interested in:
