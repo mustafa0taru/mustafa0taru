@@ -1,7 +1,5 @@
 # Mustafa Idris
-
 Hi there!
-
 I'm a Data Analytics Engineer with a strong grasp of data pipelines and a knack for turning data into actionable insights. 
 
 ### My stack;
@@ -12,18 +10,12 @@ I'm a Data Analytics Engineer with a strong grasp of data pipelines and a knack 
 - Cloud: GCP, AWS.
 - IAAS: Terraform, Docker.
 
-
 ## What I'm interested in:
 
 - Building and optimizing data pipelines
 - Automating data workflows
 - Exploring new data analysis techniques
 - Contributing to open-source projects
-
-## What I'm currently working on:
-
-- Enhancing my Python skills with advanced data structures and algorithms.
-- Deepening my knowledge of cloud platforms like AWS and Azure.
   
 ## Want to collaborate?
 
