@@ -25,10 +25,10 @@ I'm a Data Analytics Engineer with a strong grasp of data pipelines and a knack 
 - Enhancing my Python skills with advanced data structures and algorithms.
 - Deepening my knowledge of cloud platforms like AWS and Azure.
   
-- Want to collaborate?
+## Want to collaborate?
 
 I'm always looking for opportunities to work with talented individuals and contribute to exciting projects. Feel free to reach out if you have any data and analytics engineering challenges!
 
 ### Connect with me:
 
-Website: [mustafa0taru.github.io]
+Website: mustafa0taru.github.io
