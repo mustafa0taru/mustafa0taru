@@ -2,9 +2,9 @@
 
 Hi there!
 
-I'm a Data Analytics Engineer with a strong grasp of data pipelines and a knack for building scalable solutions and providing actionable insights. 
+I'm a Data Analytics Engineer with a strong grasp of data pipelines and a knack for turning data into actionable insights. 
 
-I'm proficient in tools like 
+### My stack;
 - Programming: Python, SQL.
 - Tools: dbt, Airflow, Airbyte, Spark, Kafka.
 - Warehousing: Bigquery, Snowflake, Redshift.
@@ -22,8 +22,8 @@ I'm proficient in tools like
 
 ## What I'm currently working on:
 
-- Enhancing my Python skills with advanced data structures and algorithms
-- Deepening my knowledge of cloud platforms like GCP and AWS
+- Enhancing my Python skills with advanced data structures and algorithms.
+- Deepening my knowledge of cloud platforms like AWS and Azure.
   
 - Want to collaborate?
 
