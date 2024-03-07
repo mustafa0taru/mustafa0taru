@@ -8,7 +8,8 @@ I'm a Data Analytics Engineer with a strong grasp of data pipelines and a knack 
 - Warehousing: Bigquery, Snowflake, Redshift.
 - BI/Visualization: Power BI, Metabase, Tableau, Looker.
 - Cloud: GCP, AWS.
-- IAAS: Terraform, Docker.
+- On-Chain: Flipside, Dune
+- Others: Terraform, Docker, CI/CD
 
 ## What I'm interested in:
 
@@ -23,4 +24,4 @@ I'm always looking for opportunities to work with talented individuals and contr
 
 ### Connect with me:
 
-Website: mustafa0taru.github.io
+Website: mustafaotaru.xyz
