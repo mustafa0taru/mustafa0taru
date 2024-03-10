@@ -24,4 +24,4 @@ I'm always looking for opportunities to work with talented individuals and contr
 
 ### Connect with me:
 
-Website: mustafaotaru.xyz
+| [Website](https://mustafaotaru.xyz/)
