@@ -8,7 +8,6 @@ I'm a Data Analytics Engineer with a strong grasp of data pipelines and a knack 
 - Cloud: GCP, AWS.
 - BI/Visualization: Power BI, Metabase, Tableau, Looker.
 - Onchain: Flipside, Dune.
-- Others: Terraform, Docker, CI/CD.
 
 ## What I'm interested in:
 
